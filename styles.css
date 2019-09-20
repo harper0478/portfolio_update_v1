@@ -57,9 +57,10 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/Milwaukee.jpg') no-repeat top center;
+  background: url('images/Milwaukee.jpg');
+  background-repeat: no-repeat;
   background-size: cover;
-  overflow: hidden;
+  background-position: center;
   padding-top: 100px;
 }
 header {
