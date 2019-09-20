@@ -81,12 +81,12 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 3px solid #fff;
+    border: 4px solid orange;
     transition: all .5s;
   }
 
   header .profile-image:hover {
-    transform: scale(1.2) rotate(5deg);
+    transform: scale(1.4) rotate(10deg);
   }
 
   /* Section styles MAIN */
