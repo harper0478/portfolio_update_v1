@@ -65,10 +65,11 @@
 
   header {
     text-align: center;
-    background-image: url('images/miltown-nite.jpg');
+    background-image: url('images/Milwaukee.jpg');
     background-repeat: no-repeat;
     padding-top: 100px;
     background-position: center;
+    background-size: cover;
   }
 
   header {
